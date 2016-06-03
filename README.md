@@ -1,6 +1,6 @@
 # remarkbase-themes
 
-Themes directory for [remarkbase](https://github.com/qckanemoto/remarkbase).
+Themes directory for [remarkbase](https://github.com/ttskch/remarkbase).
 
 ## Contribution
 
